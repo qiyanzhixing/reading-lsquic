@@ -4,3 +4,6 @@
 [submodule "src/lshpack"]
 	path = src/lshpack
 	url = https://github.com/litespeedtech/ls-hpack
+[submodule "third_party/boringssl"]
+	path = third_party/boringssl
+	url = https://boringssl.googlesource.com/boringssl
